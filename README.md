@@ -6,6 +6,6 @@ Hello everyone! This is Sebastians Javascript game! there is a home page where y
 
 Play hard and enjoy! 
 
-https://sebascrab.github.io/Module_Four_Challenge_Alexander_Tischner/
-
 ![image of Sebastian's JavaScript Game](assets/images/Sebastian's%20JS%20Game.png)
+
+Deployed: https://sebascrab.github.io/Multiple-Choice-Javascript-Game/
